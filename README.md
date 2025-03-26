@@ -1,6 +1,10 @@
 ## Logseq D&D template
 - Basic logseq framework for managing a D&amp;D campaign with Logseq.
 
+## Links
+- https://github.com/logseq/logseq
+- https://logseq.com/
+
 ## Structure
 - Session Notes
   - This page is intended to store links to individual session note pages.
