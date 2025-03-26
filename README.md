@@ -1,5 +1,5 @@
 ## Logseq D&D template
-- Basic logseq framework for managing a D&amp;D campaign with Logseq.
+- Basic framework for managing a D&amp;D campaign with Logseq.
 
 ## Links
 - https://github.com/logseq/logseq
